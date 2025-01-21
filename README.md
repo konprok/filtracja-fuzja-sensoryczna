@@ -17,7 +17,8 @@ Plik train.csv zawiera dane z czujników oraz dane referencyjne. Pierwszy wiersz
 Plik train.csv zawiera dane z czujników. Pierwszy wiersz stanowi nagłówek. Następnych 15000 wierszy to dane w następującej kolejności: identyfikator próbki, wektor czasu, akcelerometr (XYZ), żyroskop (XYZ), magnetometr(XYZ), czujnik temperatury, czujnik wilgotności.
 
 #### Pliki
-
 train.csv - zbiór uczący
+
 test.csv - zbiór testowy
+
 sample-submission - zbiór wynikowy
